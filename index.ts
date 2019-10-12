@@ -6,7 +6,7 @@ class CallsGetQueue {
   public results;
   constructor() {
     this.results = this.queue.pipe(
-      mergeMap((action: any) => action(), null, 1));
+      mergeMap((action: any) => action(), 1));
   }
 
   addToQueue(action) {
