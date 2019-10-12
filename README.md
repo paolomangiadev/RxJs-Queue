@@ -1,4 +1,4 @@
-# Implementation of a queue with rxjs
+# Implementation of a queue in RxJs
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-c3wmmc)
 
