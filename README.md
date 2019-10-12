@@ -2,7 +2,18 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-c3wmmc)
 
-Code:
+**Description:**
+
+This queue implementation comes pretty handy when dealing with http calls that depend one on another.
+Something to notice is that even though the 3 actions registration (addToQueue) have different timeouts, the actions will be executed following the "First In First Out" (FIFO) principles, outputting:
+
+```
+Hello 1
+Hello 2
+Hello 3
+```
+
+**Code:**
 
 ```javascript
 import { mergeMap, delay } from 'rxjs/operators';
