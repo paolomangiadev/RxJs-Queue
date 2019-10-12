@@ -12,6 +12,9 @@ Hello 1
 Hello 2
 Hello 3
 ```
+**Visual representation:**
+
+![alt_text](https://www.tutorialsteacher.com/Content/images/csharp/csharp-queue.png)
 
 **Code:**
 
