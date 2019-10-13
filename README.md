@@ -1,4 +1,5 @@
-# Implementation of a queue in RxJs
+# Implementation of a queue in RxJs 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpaolomangiadev%2FRxJs-Queue.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpaolomangiadev%2FRxJs-Queue?ref=badge_small)
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/rxjs-c3wmmc)
 
