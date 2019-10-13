@@ -15,6 +15,7 @@ Hello 3
 **Visual representation:**
 
 ![alt_text](https://www.tutorialsteacher.com/Content/images/csharp/csharp-queue.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpaolomangiadev%2FRxJs-Queue.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpaolomangiadev%2FRxJs-Queue?ref=badge_shield)
 
 **Code:**
 
@@ -48,3 +49,7 @@ instance.addToQueue(hello('Hello 1', 3000))
 instance.addToQueue(hello('Hello 2', 1000))
 instance.addToQueue(hello('Hello 3', 2000))
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpaolomangiadev%2FRxJs-Queue.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpaolomangiadev%2FRxJs-Queue?ref=badge_large)
